@@ -1,0 +1,2 @@
+# yccpython
+repository for study
